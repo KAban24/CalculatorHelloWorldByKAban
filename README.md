@@ -14,8 +14,6 @@ ENGLISH/АНГЛИЙСКИЙ:
 
 ## TranslatedByCOPILOT
 
-## ⚙️ About
-
 Hi Bro!
 
 This is a calculator. The name? Yeah, not the best — the author couldn’t come up with anything smarter, but here we are. As you might’ve guessed, it’s written in C++, using GLFW for window creation, OpenGL for rendering, and ImGui for laying out what gets drawn. I explained it based on how I understood the whole thing. The calculator is fairly optimized — thanks to decent rendering dependencies, it runs using ~55 MB of RAM, up to ~2% CPU, and around 20% GPU (on my processor).
